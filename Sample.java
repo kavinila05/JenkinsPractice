@@ -6,6 +6,7 @@ public class JenkinsExample {
     System.out.println("hello world");
     system.out.println("hello sir");
   //output
+  //input
  }
 
 }
